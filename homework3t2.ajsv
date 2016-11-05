@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2016-ноя-06 00:05" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" populationMethod="Wizard+PACKAGE" version="1.9.0.v20160922-0809">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="homework3t2.Group" modelMemberId="homework3t2.Group" project="homework3t2" xLocation="1502" yLocation="110"/>
+        <class className="homework3t2.MyException" modelMemberId="homework3t2.MyException" project="homework3t2" xLocation="2495" yLocation="145"/>
+        <class className="homework3t2.Main" modelMemberId="homework3t2.Main" project="homework3t2" xLocation="2161" yLocation="116"/>
+        <class className="homework3t2.Human" modelMemberId="homework3t2.Human" project="homework3t2" xLocation="30" yLocation="30"/>
+        <class className="homework3t2.Student" modelMemberId="homework3t2.Student" project="homework3t2" xLocation="721" yLocation="119"/>
+    </diagram>
+</ajsv>
